@@ -1,0 +1,7 @@
+.posters{
+    display: flex;
+    padding: 50px;
+       overflow-x: scroll;
+       overflow-y: hidden;
+       
+}
